@@ -37,11 +37,12 @@ While building this app, I practiced and learned:
 ## 🔗 Live Demo
 
 Check it out here: [Stopwatch App Live](https://AnuThmsn.github.io/stop-watch-app)  
-_(replace with your actual deployed URL)_
+
 
 ## 📸 Screenshots
 
-> *(Optional: Add screenshots of your stopwatch UI here)*
+![image](https://github.com/user-attachments/assets/424af043-6496-4c62-abb3-15ab046d958d)
+
 
 ## 🛠️ Installation
 
