@@ -1,0 +1,54 @@
+
+button{
+  background-color: black;
+  color: rgb(232, 198, 223);
+  padding:10px 30px;
+  border-radius: 10px;
+  margin: 0px 20px ;
+  font-weight:300;
+  font-family:fantasy;
+  font-size:1.7em;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+  border:none;
+}
+
+.start-button:hover{
+  background-color: rgb(126, 225, 27);
+  color:black;
+}
+.stop-button:hover{
+  background-color: rgb(236, 56, 56);
+  color:black;
+}
+.reset-button:hover{
+  background-color:rgb(232, 198, 223) ;
+  color:black;
+
+}
+
+body{
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  background-color: rgb(195, 149, 164);
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.stopwatch{
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  border: 5px solid;
+  border-radius:50px;
+  background-color: aliceblue;
+  padding:30px;
+}
+
+.display{
+  font-size:5em;
+  font-family:monospace;
+  font-weight:400;
+  margin:0px 0px 20px 0px;
+  text-shadow:2px 2px 2px hsla(0, 0%, 0%, 0.419);
+}
